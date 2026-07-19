@@ -1,36 +1,35 @@
-# ICP Simple Site Frontend Boilerplate
+# GuevarraPortfolio
+![Languages](https://img.shields.io/badge/Language-TypeScript-blue)
+![Frameworks](https://img.shields.io/badge/Framework-React-cyan)
+![Platform](https://img.shields.io/badge/Platform-Internet%20Computer-black)
 
-This template gives you everything you need to build a full-stack Web3 application on the [Internet Computer](https://internetcomputer.org/).
-It includes a frontend built with Vite and React, and a backend written in JS/TS (Azle).
+## Professional Summary
+A robust full-stack Web3 application developed on the Internet Computer (ICP) platform. This project serves as a comprehensive portfolio piece demonstrating proficiency in modern web development, blockchain integration, and decentralized application architecture.
 
-## Get started with one click:
+## 🛠️ Core Competencies Demonstrated
+- **Frontend Development**: Proficiency with React and Vite for responsive, modern UI/UX design.
+- **Blockchain Integration**: Experience building and deploying canister smart contracts using Azle (TypeScript).
+- **Full-Stack Architecture**: Managing complex states and data flow between decentralized backends and web interfaces.
+- **Project Lifecycle Management**: Proficient in local development workflows, Docker environments, and cloud deployment pipelines.
 
-### Locally:
+## 📂 Project Structure & Features
+- **Frontend**: React-based UI delivering seamless user interactions.
+- **Backend**: TypeScript-based canister smart contract providing secure, decentralized logic.
+- **Assets**: Contains documentation and visual identity elements.
 
-Make sure you have you have the latest version of Docker (e.g. >25) and VS Code installed and running, then click the button below
+## 🚀 Getting Started
+To run this project locally, ensure you have Docker and the DFX SDK installed:
 
-[![Open locally in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/ICPHubPH/icp-simple-site)
+1. **Start local ICP node**:
+   ```bash
+   dfx start --clean
+   ```
+2. **Deploy smart contracts**:
+   ```bash
+   dfx deploy
+   ```
 
-### In your browser:
-
-In Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ICPHubPH/icp-simple-site/)
-
-## 🚀 Develop
-
-When the editor opened, run the following commands to start a local ICP node and deploy the canister smart contract:
-
-```bash
-dfx start --clean # Start a local ICP node
-# In a new terminal window:
-dfx deploy # Deploy smart contract locally
-```
-
-To redeploy the smart contract, run `dfx deploy` again.
-
-When ready, run `dfx deploy --playground` to deploy your application to the ICP playground.
-
-## 💡 Tips and Tricks
-
-- If you get an error "Error: An error happened during communication with the replica: ... Connection refused", run `dfx start --clean` to start dfx.
+## 📬 Let's Connect
+I am open to new opportunities and collaborations.
+- **Email**: [marcangelguevarra@gmail.com](mailto:marcangelguevarra@gmail.com)
+- **GitHub**: [Markyy0411](https://github.com/Markyy0411)
