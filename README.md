@@ -1,4 +1,4 @@
-# GuevarraPortfolio
+﻿# GuevarraPortfolio
 ![Languages](https://img.shields.io/badge/Language-TypeScript-blue)
 ![Frameworks](https://img.shields.io/badge/Framework-React-cyan)
 ![Platform](https://img.shields.io/badge/Platform-Internet%20Computer-black)
@@ -32,4 +32,4 @@ To run this project locally, ensure you have Docker and the DFX SDK installed:
 ## 📬 Let's Connect
 I am open to new opportunities and collaborations.
 - **Email**: [marcangelguevarra@gmail.com](mailto:marcangelguevarra@gmail.com)
-- **GitHub**: [Markyy0411](https://github.com/Markyy0411)
+- **GitHub**: [MarkAngelGuevarra](https://github.com/MarkAngelGuevarra)
